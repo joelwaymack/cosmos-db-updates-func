@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "cosmos_db_updates_func": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7287",
+      "launchBrowser": false
+    }
+  }
+}
